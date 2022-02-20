@@ -1,0 +1,60 @@
+{
+  "picture": [
+    {
+      "id": 1,
+      "img": "https://wcs.smartdraw.com/chart/img/basic-bar-graph.png?bn=15100111814"
+    },
+    {
+      "id": 2,
+      "img": "https://www.cambridgemaths.org/Images/The-trouble-with-graphs.jpg"
+    },
+    {
+      "id": 3,
+      "img": "https://cdn.pixabay.com/photo/2016/03/31/20/40/arrow-1295953_960_720.png"
+    },
+    {
+      "id": 4,
+      "img": "https://cdn.pixabay.com/photo/2017/05/14/03/45/gui-2311261_960_720.png"
+    }
+  ],
+  "heding": [
+    {
+      "id": 1,
+      "heading": "Feature name",
+      "name": "cebex integrates semlessaly into 100 +industry-leading apps."
+    },
+    {
+      "id": 2,
+      "heading": "Feature name",
+      "name": "cebex integrates semlessaly into 100 +industry-leading apps."
+    },
+    {
+      "id": 3,
+      "heading": "Feature name",
+      "name": "cebex integrates semlessaly into 100 +industry-leading apps."
+    },
+    {
+      "id": 4,
+      "heading": "Feature name",
+      "name": "cebex integrates semlessaly into 100 +industry-leading apps."
+    }
+  ],
+  "user": [
+    {
+      "email": "tbhavya42@gmail.com",
+      "password": "1234",
+      "id": 1
+    },
+    {
+      "email": "havya42@gmail.com",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "main": [
+    {
+      "id": 1,
+      "img": "https://c.ndtvimg.com/2019-08/cu27o7q8_callblock_625x300_01_August_19.jpg"
+    }
+  ]
+}
